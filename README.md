@@ -101,3 +101,6 @@ The power of data isn’t just in volume, it’s in how effectively it’s trans
 ## Live Dashboard
 View the interactive dashboard here:  
 https://public.tableau.com/views/WealthPerformanceDashboardJan-June2025/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+For the best experience, click “View in Full Screen” in the bottom-right corner next to the Share option.
