@@ -97,3 +97,7 @@ Each KPI is designed to show both current performance and direction.
 Working with a six-month dataset was an experience in itself. It reinforced that even within a short timeframe, data can uncover meaningful trends, performance gaps, and opportunities for improvement.
 
 The power of data isn’t just in volume, it’s in how effectively it’s translated into insight. This project wasn’t just about building a dashboard, but about creating a tool that tells a clear story and enables better decision-making.
+
+## Live Dashboard
+View the interactive dashboard here:  
+https://public.tableau.com/views/WealthPerformanceDashboardJan-June2025/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
